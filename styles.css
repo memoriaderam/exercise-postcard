@@ -1,0 +1,52 @@
+body {
+	background-color: rgb(243, 247, 252);
+	color: rgb(0, 0, 15);
+	border: 1px solid red;
+	width: 500px;
+	height: 350px;
+}
+
+div {
+	width: 100%;
+}
+
+div.one_big {
+	background: white;
+	width: 380px;
+	float: left;
+	height: 50px;
+	padding: 15px;
+}
+
+div.one_big2 {
+	border: 0px solid red;
+	height: 50px;
+	padding: 15px;
+	color: white;
+	margin-left: 00px;
+}
+
+div.two_big {
+	background: white;
+	width: 275px;
+	float: left;
+	height: 200px;
+	padding: 7px;
+	overflow: hidden;
+}
+
+div.two_big2 {
+	border: 0px solid red;
+	height: 200px;
+	padding: 7px;
+	color: white;
+	margin-top: 20px;
+	margin-right: 1px;
+	margin-bottom: 1px;
+	width: 500px;
+}
+
+div.trhee_big {
+	text-align: center;
+	padding: 10px;
+}
